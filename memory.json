@@ -1,0 +1,294 @@
+{
+  "Priya": {
+    "meetings": [
+      {
+        "date": "2026-09-20",
+        "summary": "Discussed Acme's Q4 rollout timeline.",
+        "you_promised": [
+          {
+            "text": "Send pricing proposal",
+            "done": false
+          }
+        ],
+        "they_promised": [
+          {
+            "text": "Share team headcount",
+            "done": false
+          }
+        ]
+      }
+    ]
+  },
+  "Rahul": {
+    "meetings": [
+      {
+        "date": "2026-09-28",
+        "summary": "Discussed the website redesign budget and a launch date in November.",
+        "you_promised": [
+          {
+            "text": "Send revised quote by Friday",
+            "done": false
+          },
+          {
+            "text": "Share two design mockups",
+            "done": true
+          }
+        ],
+        "they_promised": [
+          {
+            "text": "Confirm final budget approval",
+            "done": false
+          },
+          {
+            "text": "Send brand guidelines",
+            "done": false
+          }
+        ]
+      }
+    ]
+  },
+  "Amit": {
+    "meetings": [
+      {
+        "date": "2026-09-28",
+        "summary": "Met with Amit to discuss the mobile app, aligning on upcoming deliverables and API access.",
+        "you_promised": [
+          {
+            "text": "Send the project timeline to Amit tomorrow.",
+            "done": false
+          }
+        ],
+        "they_promised": [
+          {
+            "text": "Get manager's approval.",
+            "done": false
+          },
+          {
+            "text": "Share the API access details by Friday.",
+            "done": false
+          }
+        ]
+      }
+    ]
+  },
+  "Meera Iyer": {
+    "meetings": [
+      {
+        "date": "2026-08-04",
+        "summary": "Intro call with Meera (VP Operations, Northwind Logistics). Last-mile delivery delays across 3 warehouses. Open to a pilot of route-optimization software. Budget cycle closes end of September. Worried about integrating with their legacy system.",
+        "you_promised": [
+          {
+            "text": "Send route-optimization case study by Aug 7",
+            "done": true
+          },
+          {
+            "text": "Share pricing overview by Aug 14",
+            "done": true
+          }
+        ],
+        "they_promised": [
+          {
+            "text": "Introduce IT lead Karthik Rao by Aug 11",
+            "done": true
+          }
+        ]
+      },
+      {
+        "date": "2026-08-13",
+        "summary": "Discovery call with Karthik Rao. Legacy system exposes a REST API. Main worry is data security and India-region hosting.",
+        "you_promised": [
+          {
+            "text": "Send security whitepaper and SOC 2 summary by Aug 18",
+            "done": false
+          }
+        ],
+        "they_promised": [
+          {
+            "text": "Share 3 months of sample delivery data by Aug 20",
+            "done": true
+          }
+        ]
+      },
+      {
+        "date": "2026-08-27",
+        "summary": "Pilot scoping. Agreed a 6-week pilot at the Hyderabad warehouse. Meera prefers short bullet updates and dislikes long decks. Still waiting on the security documents and mildly frustrated.",
+        "you_promised": [
+          {
+            "text": "Send pilot proposal with pricing by Sept 3",
+            "done": true
+          },
+          {
+            "text": "Resend security whitepaper and SOC 2 summary",
+            "done": false
+          }
+        ],
+        "they_promised": [
+          {
+            "text": "Get budget approval from CFO Anil Shah by Sept 10",
+            "done": false
+          }
+        ]
+      },
+      {
+        "date": "2026-09-10",
+        "summary": "CFO approval delayed by a week. Karthik set up the sandbox. Meera asked for an ROI estimate.",
+        "you_promised": [
+          {
+            "text": "Send ROI estimate by Sept 15",
+            "done": false
+          }
+        ],
+        "they_promised": [
+          {
+            "text": "Confirm CFO approval by Sept 17",
+            "done": false
+          },
+          {
+            "text": "Provide sandbox credentials",
+            "done": true
+          }
+        ]
+      },
+      {
+        "date": "2026-09-22",
+        "summary": "CFO still has not approved. Meera wants a revised pricing option with a volume discount before she takes it back. Target pilot start is Oct 5.",
+        "you_promised": [
+          {
+            "text": "Send revised pricing with 8% volume discount by Sept 25",
+            "done": false
+          }
+        ],
+        "they_promised": [
+          {
+            "text": "Sign pilot agreement by Oct 1",
+            "done": false
+          }
+        ]
+      }
+    ]
+  },
+  "Daniel Okafor": {
+    "meetings": [
+      {
+        "date": "2026-08-06",
+        "summary": "First call with Daniel (CTO, Brightpath Health). He wants to cut patient no-show rates, currently 18% across 12 clinics. HIPAA compliance is mandatory.",
+        "you_promised": [
+          {
+            "text": "Send HIPAA compliance overview by Aug 10",
+            "done": true
+          }
+        ],
+        "they_promised": [
+          {
+            "text": "Share current no-show data by Aug 13",
+            "done": true
+          }
+        ]
+      },
+      {
+        "date": "2026-08-20",
+        "summary": "Reviewed his data and ran a demo. Daniel liked the automated reminders but is skeptical about prediction accuracy.",
+        "you_promised": [
+          {
+            "text": "Send accuracy benchmark report by Aug 27",
+            "done": false
+          }
+        ],
+        "they_promised": [
+          {
+            "text": "Introduce compliance officer Ritu Bansal by Aug 25",
+            "done": true
+          }
+        ]
+      },
+      {
+        "date": "2026-09-08",
+        "summary": "Ritu raised a data residency question. Daniel prefers detailed written follow-ups after every call.",
+        "you_promised": [
+          {
+            "text": "Send written answer on data residency by Sept 12",
+            "done": true
+          }
+        ],
+        "they_promised": [
+          {
+            "text": "Decide on a 2-clinic pilot by Sept 20",
+            "done": false
+          }
+        ]
+      },
+      {
+        "date": "2026-09-23",
+        "summary": "Daniel is undecided and comparing us with a competitor called Clinicly. He wants per-clinic pilot pricing.",
+        "you_promised": [
+          {
+            "text": "Send per-clinic pricing by Sept 28",
+            "done": false
+          }
+        ],
+        "they_promised": [
+          {
+            "text": "Share his competitor evaluation criteria",
+            "done": false
+          }
+        ]
+      }
+    ]
+  },
+  "Sofia Martins": {
+    "meetings": [
+      {
+        "date": "2026-09-01",
+        "summary": "Intro with Sofia (Procurement Lead, Lumen Retail). She is consolidating vendors and needs 3 quotes. Standard payment terms are net-60.",
+        "you_promised": [
+          {
+            "text": "Send company registration and vendor forms by Sept 5",
+            "done": true
+          }
+        ],
+        "they_promised": [
+          {
+            "text": "Share vendor evaluation scorecard by Sept 8",
+            "done": true
+          }
+        ]
+      },
+      {
+        "date": "2026-09-15",
+        "summary": "Reviewed her scorecard. Our pricing is 12% above the incumbent. She asked for volume tiers.",
+        "you_promised": [
+          {
+            "text": "Send revised quote with volume tiers by Sept 20",
+            "done": false
+          }
+        ],
+        "they_promised": [
+          {
+            "text": "Confirm decision timeline",
+            "done": false
+          }
+        ]
+      },
+      {
+        "date": "2026-09-24",
+        "summary": "Sofia is annoyed the revised quote has not arrived. The decision committee meets Oct 8.",
+        "you_promised": [
+          {
+            "text": "Send revised quote by Sept 26",
+            "done": false
+          },
+          {
+            "text": "Send three customer references",
+            "done": false
+          }
+        ],
+        "they_promised": [
+          {
+            "text": "Send committee agenda by Oct 1",
+            "done": false
+          }
+        ]
+      }
+    ]
+  }
+}
