@@ -2,3 +2,4 @@ google-genai
 python-dotenv
 hindsight-client
 groq
+streamlit
