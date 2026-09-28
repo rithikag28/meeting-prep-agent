@@ -288,6 +288,58 @@
             "done": false
           }
         ]
+      },
+      {
+        "date": "2026-09-28",
+        "summary": "Discussed the delayed quote with Sofia, addressed her frustration, and set timelines for sending the revised quote and references while Sofia committed to provide agenda and decision dates.",
+        "you_promised": [
+          {
+            "text": "Send the revised quote with volume tiers by Sept 30",
+            "done": false
+          },
+          {
+            "text": "Send three customer references by Oct 2",
+            "done": false
+          }
+        ],
+        "they_promised": [
+          {
+            "text": "Send the committee agenda by Oct 1",
+            "done": false
+          },
+          {
+            "text": "Confirm the final decision date by Oct 5",
+            "done": false
+          }
+        ]
+      }
+    ]
+  },
+  "Suzie Rose": {
+    "meetings": [
+      {
+        "date": "2026-09-28",
+        "summary": "The meeting set a deadline to deploy the project by 2026-10-08, with a presentation and contract signing on 2026-10-01, and emphasized a modern, professional style with visual content and readable fonts.",
+        "you_promised": [],
+        "they_promised": []
+      },
+      {
+        "date": "2026-09-28",
+        "summary": "The team missed the deployment deadline and had to postpone the project deployment due to technical issues.",
+        "you_promised": [],
+        "they_promised": []
+      },
+      {
+        "date": "2026-09-28",
+        "summary": "The meeting addressed a missed deadline, noting that the project deployment scheduled for yesterday was postponed due to technical issues.",
+        "you_promised": [],
+        "they_promised": []
+      },
+      {
+        "date": "2026-09-28",
+        "summary": "The deadline was missed and the project deployment scheduled for yesterday was postponed because of technical issues.",
+        "you_promised": [],
+        "they_promised": []
       }
     ]
   }
